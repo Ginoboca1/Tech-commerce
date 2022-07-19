@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tech-commerce/static/css/main.bac518c8.css",
-    "main.js": "/Tech-commerce/static/js/main.9162bd00.js",
+    "main.js": "/Tech-commerce/static/js/main.4dc5ad4d.js",
     "static/media/commerce.png": "/Tech-commerce/static/media/commerce.457bea4f142b5443dec4.png",
     "index.html": "/Tech-commerce/index.html",
     "main.bac518c8.css.map": "/Tech-commerce/static/css/main.bac518c8.css.map",
-    "main.9162bd00.js.map": "/Tech-commerce/static/js/main.9162bd00.js.map"
+    "main.4dc5ad4d.js.map": "/Tech-commerce/static/js/main.4dc5ad4d.js.map"
   },
   "entrypoints": [
     "static/css/main.bac518c8.css",
-    "static/js/main.9162bd00.js"
+    "static/js/main.4dc5ad4d.js"
   ]
 }
