@@ -64,7 +64,7 @@ const App = () => {
         />
         
         <Routes>
-          <Route path="/e-commerce" element= {<Home onAddToCart={handleAddToCart} products = {products} />} />
+          <Route path="/Tech-commerce" element= {<Home onAddToCart={handleAddToCart} products = {products} />} />
           <Route path="/cart" element={
               <Cart
                 cart={cart}

@@ -28,7 +28,7 @@ const Navbar = ({ home, shop, contacto, totalItems }) => {
         <Toolbar>
           <Typography
             component={Link}
-            to="/e-commerce"
+            to="/Tech-commerce"
             variant="h6"
             className={classes.title}
             color="inherit"
@@ -45,7 +45,7 @@ const Navbar = ({ home, shop, contacto, totalItems }) => {
       
           <div className={classes.grow} />
 
-          {location.pathname === "/e-commerce" && (
+          {location.pathname === "/Tech-commerce" && (
             <div className={classes.button}>
               <IconButton component={Link} to="/cart">
                 <Badge badgeContent={totalItems} color="secondary">
@@ -57,7 +57,7 @@ const Navbar = ({ home, shop, contacto, totalItems }) => {
 
           {location.pathname === '/cart' && (
             <div className={classes.button}>
-              <IconButton component={Link} to="/e-commerce">
+              <IconButton component={Link} to="/Tech-commerce">
                   <House />
               </IconButton>
             </div>
